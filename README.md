@@ -8,6 +8,7 @@ Despite enormous progress in lipreading recently, only 30% of the International 
 
 # dataset
 Download LRS2/3 from: https://www.robots.ox.ac.uk/~vgg/data/lip_reading/index.html#about
+Download ICSLR from: GoogleDrive
 
 to be continue...
 
