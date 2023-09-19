@@ -10,7 +10,7 @@ Despite enormous progress in lipreading recently, only 30% of the International 
 
 Download LRS2/3 from: https://www.robots.ox.ac.uk/~vgg/data/lip_reading/index.html#about
 
-Download ICSLR from: GoogleDrive
+Download ICSLR from: GoogleDrive/BaiduDrive(key: to be upload)
 
 Decompress the downloaded datasets into '/data'.
 
